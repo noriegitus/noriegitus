@@ -18,4 +18,4 @@ I have just started my journey in technology and am quite motivated to improve m
 </div>
 
 ---
-> _"**The important thing is to start, you can debug as you go.**"_
+> _"**The important thing is to start, you can debug as you go.**"_ 🛸
