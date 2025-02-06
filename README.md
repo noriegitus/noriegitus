@@ -5,7 +5,7 @@ I have just started my journey in technology and am quite motivated to improve m
 
 
 
-### Current SkillSet <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=790b7611h4l7f0bvna19avtoux3xprldslh5evr3na52ikkp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="27px">
+### Current Skillset <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=790b7611h4l7f0bvna19avtoux3xprldslh5evr3na52ikkp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="27px">
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -18,4 +18,4 @@ I have just started my journey in technology and am quite motivated to improve m
 </div>
 
 ---
-> _"The important thing is to start, you can debug as you go."_
+> _"**The important thing is to start, you can debug as you go.**"_
