@@ -1,6 +1,6 @@
 ### Hi There! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJkZWh2bXVoOGEwazYzeGZoMjJpeXFxZDUyenB2OG82MnY5dmZ2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AOXNxxIJuBQdNTBblp/giphy.gif" width="30px">
 
-I'm Valeria, a computer science student at ESPOL 🐢 <br>
+I'm Valeria, a **computer science** student at ESPOL 🐢 <br>
 I have just started my journey in technology and am quite motivated to improve my knowledge and skills in the areas of **AI** and **Web Development.**
 
 
