@@ -5,7 +5,7 @@ I have just started my journey in technology and am quite motivated to improve m
 
 ### Current Skillset <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=790b7611h4l7f0bvna19avtoux3xprldslh5evr3na52ikkp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="27px">
 
-#### Languages & Technologies
+#### _Languages & Technologies_
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -27,7 +27,7 @@ I have just started my journey in technology and am quite motivated to improve m
   </a>
 </div>
 
-#### Libraries
+#### _Libraries_
 <div align="left">
   <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -41,14 +41,11 @@ I have just started my journey in technology and am quite motivated to improve m
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
-</div>
-
-#### Other Technologies
-<div align="left">
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
   </a>
 </div>
+
 
 ---
 
